@@ -8,7 +8,6 @@
 <img width="316" height="149" alt="image" src="https://github.com/user-attachments/assets/d1d763c7-f0e1-4a0d-bea2-76ff801e3104" />
 <img width="545" height="93" alt="image" src="https://github.com/user-attachments/assets/1eda0c6e-604e-45db-8830-b6d32ca1de06" />
 
-
 ## 2. Переставить элементы в обратном порядке между вхождениями элемента. LinkedList
 * Находит индексы первого и последнего вхождения элемента E
 * Если элемент не найден - возвращает исходный список
@@ -17,7 +16,7 @@
 <img width="1462" height="133" alt="image" src="https://github.com/user-attachments/assets/da05b2bb-79fc-4841-965d-0c201bc13a28" />
 <img width="1466" height="93" alt="image" src="https://github.com/user-attachments/assets/c7d52578-4b21-4fab-99fe-aeb121591968" />
 <img width="1440" height="132" alt="image" src="https://github.com/user-attachments/assets/921ad1a2-4a8d-49c9-9f2e-332720ff730b" />
-
+<img width="1445" height="155" alt="image" src="https://github.com/user-attachments/assets/b1670a12-0b50-4d90-bba5-1de9c145154d" />
 
 ## 3. Есть перечень фильмов. Какие фильмы посмотрели все, некоторые или никто. HashSet
 Дан список фильмов и списки просмотров для каждого зрителя
@@ -27,9 +26,7 @@ some - фильмы, которые посмотрел хотя бы один з
 none - фильмы из исходного списка, которые не посмотрел ни один зритель
 <img width="1060" height="273" alt="image" src="https://github.com/user-attachments/assets/48ede5c1-4d38-4aab-ad46-ac99c7166521" />
 
-
 ## 4. Напечатать в алфавитном порядке все звонкие согласные буквы, которые входят более чем в одно слово. HashSet
-
 Для начала создаю список из звонких согласных (voicedConsonants): б, в, г, д, ж, з, л, м, н, р, й
 * Обрабатывае текст по словам
 * Находит звонкие согласные, которые повторяются внутри одного слова
